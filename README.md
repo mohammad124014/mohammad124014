@@ -1,4 +1,5 @@
 <div>
+  <h1>Front End developer (Nextjs)</h1>
   <h2>My Skills</h2>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,materialui,react,nextjs" />
 <!--   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,materialui,react,nextjs&perline=5" />  -->
