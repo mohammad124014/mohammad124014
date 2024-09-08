@@ -1,4 +1,7 @@
-## Hi there 👋
+<div>
+  <h2>My Skills</h2>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,materialui,react,nextjs&perline=5" />
+</div>
 
 <!--
 **mohammad124014/mohammad124014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
