@@ -1,7 +1,15 @@
 <div>
-  <h2>My Skills</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,materialui,react,nextjs" />
-<!--   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,materialui,react,nextjs&perline=5" />  -->
+  <div>
+<!--     <h1>about me</h1> -->
+    <h1>Mohammad Khodapanah</h1>
+    <p>Frontend Developer (Nextjs)</p>
+    <br />
+  </div>
+  <div>
+    <h1>My Skills</h1>
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,materialui,react,nextjs" />
+    <!--   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,materialui,react,nextjs&perline=5" />  -->
+  </div>
 </div>
 
 
@@ -20,3 +28,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
