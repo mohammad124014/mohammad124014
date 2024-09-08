@@ -1,6 +1,7 @@
 <div>
   <h2>My Skills</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,materialui,react,nextjs&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,materialui,react,nextjs />
+<!--   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,materialui,react,nextjs&perline=5" /> -->
 </div>
 
 <!--
